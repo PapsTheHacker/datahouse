@@ -1,17 +1,22 @@
-[
+{
+"messages" : [
   {
+    "id": 1
     "heading": "The strike is not gonna end now",
     "content": "The school administration regrets to announce to all stake holders about the current state of events prevent them from carrying out teaching and learning activities",
     "image": "https://www.placehold.it/600x800"
   },
   {
+      "id": 2
     "heading": "This is not gonna be easy for anyone here",
     "content": "The school administration regrets to announce to all stake holders about the current state of events prevent them from carrying out teaching and learning activities",
     "image": "https://www.placehold.it/600x800"
   },
   {
+      "id": 3
     "heading": "Another great article part 3",
     "content": "The school administration regrets to announce to all stake holders about the current state of events prevent them from carrying out teaching and learning activities",
     "image": "https://www.placehold.it/600x800"
   }
 ]
+}
